@@ -3,7 +3,7 @@ from firebase_admin import credentials, auth as fbauth, firestore, initialize_ap
 from data.firebase_config import firebaseConfig
 
 # Initialize Firestore DB
-cred = credentials.Certificate('investify-d81b6-firebase-adminsdk-nwh3q-8ce381cf50.json')
+cred = credentials.Certificate('investify-d81b6-firebase-adminsdk-nwh3q-7728897492.json')
 default_app = initialize_app(cred)
 db = firestore.client()
 

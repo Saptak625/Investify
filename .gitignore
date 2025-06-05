@@ -29,6 +29,7 @@ htmlcov/
 # Secret files
 .env
 investify-d81b6-firebase-adminsdk-nwh3q-8ce381cf50.json
+investify-d81b6-firebase-adminsdk-nwh3q-7728897492.json
 data/firebase_config.py
 
 # Byte-compiled / optimized / DLL files
